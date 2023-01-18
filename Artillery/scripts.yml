@@ -1,0 +1,11 @@
+config:
+  target: "http://43.200.75.79" # 테스트 하고자 하는 ec2 주소
+  phases:
+    - duration: 360
+      arrivalRate: 1
+      name: Warm up
+scenarios:
+  - name: "get product detail"
+    flow:
+      - get: # get 요청
+          url: "/api/product/details/123" # api 주소
