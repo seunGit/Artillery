@@ -1,2 +1,2 @@
 # Artillery
-[**Artillerys Study Note 📖**](https://github.com/seunGit/TIL-TodayILearned/issues/1)
+[**Artillery Study Note 📖**](https://github.com/seunGit/TIL-TodayILearned/issues/1)
